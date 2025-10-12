@@ -1,7 +1,7 @@
 <!-- 🌟 Sanket Meghale | GitHub Profile README -->
 
 <h1 align="center">💫 Hello, I'm Sanket Meghale</h1>
-<h3 align="center">Data-Driven | Analytical | Creative Problem Solver</h3>
+<h3 align="center">Data-Driven | Analytical | Predictive Analytics | ML & Data Science | Creative Problem Solver</h3>
 
 ---
 
