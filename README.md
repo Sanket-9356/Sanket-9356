@@ -1,42 +1,92 @@
-# 💫 Hello,I am Sanket...
+<!-- 🌟 Sanket Meghale | GitHub Profile README -->
 
-Data-driven and detail-oriented Computer Engineering student with strong foundations in Data Analytics, Machine Learning, and Backend Development. Skilled in transforming raw data into actionable insights through Python, SQL, Pandas, NumPy, and Power BI, with hands-on experience in data visualization, exploratory analysis, and performance optimization. Proficient in PostgreSQL, Tableau, and Excel, and familiar with AWS, Linux, and modern web technologies. Passionate about leveraging data and technology to build intelligent systems that enhance decision-making and business efficiency. Currently pursuing projects in Data Science and Full Stack Development, combining analytical thinking with software engineering skills to solve real-world problems. compress it.
-
----
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zero_analyst/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sanket-meghale ) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+<h1 align="center">💫 Hello, I'm Sanket Meghale</h1>
+<h3 align="center">Data-Driven | Analytical | Creative Problem Solver</h3>
 
 ---
 
-### Machine Learning and Data Science:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-
-
----
-
-### Tools for Workflow & Automation:
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-%2315499A.svg?style=for-the-badge&logo=tableau&logoColor=white)
- 
+### 🚀 About Me  
+🎯 Passionate **Computer Engineering student** focused on **Data Analytics, Machine Learning, and Backend Development**.  
+💡 Skilled in turning **data into actionable insights** using tools like **Python, SQL, Power BI, and Tableau**.  
+📊 Experienced in **data visualization, exploratory analysis, and performance optimization**.  
+🔍 Currently exploring projects in **Data Science** and **Full Stack Development**, blending analytical thinking with modern technology to solve real-world problems.  
 
 ---
 
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanket-meghale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/zero_analyst/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
+---
 
+## 💻 Tech Stack
 
+### 🧠 Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
+---
 
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
 
+---
 
+### 🤖 Machine Learning & Data Science  
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 📊 Data Visualization Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-1F75FE?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+---
+
+### 🧩 Development & Workflow Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Current Focus
+🌟 Data Science Projects    
+🌟 Advanced SQL & Power BI Dashboards  
+🌟 Problem Solving (DSA in Java)  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanket-meghale&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket-meghale&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+<h3 align="center">⭐ “Transforming Data into Insights, and Ideas into Innovation.” ⭐</h3>
+
+<!-- Created with ❤️ by Sanket Meghale -->
