@@ -1,4 +1,4 @@
-# 💫 About Me  
+# 💫 Hello,I am Sanket...
 
 Data-driven and detail-oriented Computer Engineering student with strong foundations in Data Analytics, Machine Learning, and Backend Development. Skilled in transforming raw data into actionable insights through Python, SQL, Pandas, NumPy, and Power BI, with hands-on experience in data visualization, exploratory analysis, and performance optimization. Proficient in PostgreSQL, Tableau, and Excel, and familiar with AWS, Linux, and modern web technologies. Passionate about leveraging data and technology to build intelligent systems that enhance decision-making and business efficiency. Currently pursuing projects in Data Science and Full Stack Development, combining analytical thinking with software engineering skills to solve real-world problems. compress it.
 
@@ -29,8 +29,9 @@ Data-driven and detail-oriented Computer Engineering student with strong foundat
 ---
 
 ### Programming  Languages:
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ---
 
