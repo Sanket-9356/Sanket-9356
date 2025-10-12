@@ -80,12 +80,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanket-meghale&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket-meghale&layout=compact&theme=tokyonight" height="180px"/>
-</p>
 
----
 
 <h3 align="center">⭐ “Transforming Data into Insights, and Ideas into Innovation.” ⭐</h3>
 
