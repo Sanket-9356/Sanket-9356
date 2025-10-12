@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me  
-🎯 Passionate **Computer Engineering student** focused on **Data Analytics, Machine Learning, and Backend Development**.  
+🎯 Passionate **Computer Engineering student** focused on **Data Analytics, Machine Learning**.  
 💡 Skilled in turning **data into actionable insights** using tools like **Python, SQL, Power BI, and Tableau**.  
 📊 Experienced in **data visualization, exploratory analysis, and performance optimization**.  
 🔍 Currently exploring projects in **Data Science** and **Full Stack Development**, blending analytical thinking with modern technology to solve real-world problems.  
