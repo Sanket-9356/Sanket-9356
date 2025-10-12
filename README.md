@@ -26,7 +26,7 @@ Data-driven and detail-oriented Computer Engineering student with strong foundat
 ---
 
 ### Tools for Workflow & Automation:
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-%2315499A.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-%2315499A.svg?style=for-the-badge&logo=tableau&logoColor=white)
  
 
 ---
