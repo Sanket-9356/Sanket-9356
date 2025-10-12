@@ -15,10 +15,10 @@
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/sanket-meghale" target="_blank">
+  <a href="www.linkedin.com/in/sanket-meghale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/zero_analyst/" target="_blank">
+  <a href="https://www.instagram.com/i_awes0me_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -68,7 +68,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
 </p>
 
 ---
