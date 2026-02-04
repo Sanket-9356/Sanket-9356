@@ -85,21 +85,4 @@
 
 
 
-<h3 align="center">⭐ “Transforming Data into Insights, and Ideas into Innovation.” ⭐</h3>
 
-# 📊 GitHub Profile Overview
-
-### 🛠️ Top Languages & Skills
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-9356&theme=tokyonight&layout=compact&hide_border=false&count_private=false)
-
-### ✨ Other Stats
-![](https://github-readme-stats.vercel.app/api?username=Sanket-9356&show_icons=true&theme=tokyonight&hide_border=false&count_private=false)
-
----
-
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-<!-- Created with ❤️ by Sanket Meghale -->
